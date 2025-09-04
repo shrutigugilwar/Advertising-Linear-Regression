@@ -44,7 +44,7 @@ Example:
 |-----------|--------------|----------------|----------------|
 | 150       | 30           | 20             | 21.5           |
 
-> Note: The actual predicted value may vary slightly depending on training/test split.
+> Note: The actual predicted value may vary slightly depending on the training/test split.
 
 ---
 
@@ -70,4 +70,4 @@ Example:
 
 ## **Author**
 
-- **Your Name** – GitHub: [your-username](https://github.com/your-username)
+- **Shruti Gugilwar** – GitHub: https://github.com/shrutigugilwar
