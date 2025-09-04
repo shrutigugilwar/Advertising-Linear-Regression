@@ -50,7 +50,7 @@ Example:
 
 ## **Visualization**
 
-![Actual vs Predicted Sales](images/actual_vs_predicted.png)
+![Actual vs Predicted Sales](prediction.png)
 
 - **Blue dots:** Actual sales from test data  
 - **Red line:** Perfect prediction line (y = x)  
